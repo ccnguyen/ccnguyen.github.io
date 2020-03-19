@@ -11,8 +11,8 @@ p .pubs { font-size: 0.8em; line-height: 1.4em; color: #333; }
 
 .self {
    float: left;
-   width: 5em;
-   height: 5em;
+   width: 10em;
+   height: 10em;
    padding: 10px 10px 10px 10px;
 }
 .blurb p {
