@@ -3,7 +3,19 @@ body { margin: 60px auto; width: 55%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1em; line-height: 1.4em; color: #333; }
+p .pubs { font-size: 0.8em; line-height: 1.4em; color: #333; }
+
+.self {
+   float: left;
+   width: 10em;
+   height: 10em;
+   width: 20%
+}
+.blurb p {
+   padding: 20px 40px 20px 40px;
+   width: 60%;
+   float: right;}
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
@@ -13,8 +25,6 @@ h4 { font-size: 0.8em; }
 
 nav ul, footer ul, .blurb ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li, .blurb ul { display: inline; margin-right: 20px; }
-.blurb { float:right; }
-.self { float: left; width: 20em; height: 20em; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
