@@ -15,6 +15,12 @@ p .pubs { font-size: 0.8em; line-height: 1.4em; color: #333; }
 	--min-height: 80px;
 }
 
+.self {
+   width: 10em;
+   height: 10em;
+   padding: 10px 10px 10px 10px;
+}
+
 .container {
 	display: flex;
 	flex-direction: column;
@@ -108,8 +114,8 @@ h2 { font-size: 1.5em; }
 h3 { font-size: 1.2em; }
 h4 { font-size: 0.8em; }
 
-nav ul, footer ul, .blurb ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li, .blurb ul { display: inline; margin-right: 20px; }
+nav ul, footer ul, .links ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul li, footer ul li, .links ul { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
