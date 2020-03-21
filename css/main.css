@@ -9,7 +9,7 @@ p, ul { font-size: 1.2em;
       font-family: 'Helvetica', 'Arial', 'Sans-Serif';
       line-height: 1.4em;
       color: #333; }
-p .pubs { font-size: 0.8em; line-height: 1.4em; color: #333; }
+p .text { font-size: 0.8em; line-height: 1.4em; color: #333; }
 
 :root {
 	--min-height: 80px;
@@ -18,7 +18,7 @@ p .pubs { font-size: 0.8em; line-height: 1.4em; color: #333; }
 .self {
    width: 10em;
    height: 10em;
-   padding: 10px 10px 10px 10px;
+   padding: 10px 15px 15px 10px;
 }
 
 .container {
