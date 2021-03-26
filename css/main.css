@@ -31,7 +31,7 @@ p, ul { font-size: 1.2em;
       font-family: 'Helvetica', 'Arial', 'Sans-Serif';
       line-height: 1.4em;
       color: #333; }
-p .text { font-size: 0.8em; line-height: 1.4em; color: #333; }
+p .text { font-size: 0.8em; line-height: 1.4em; color: #333; vertical-align: middle;}
 
 :root {
 	--min-height: 80px;
