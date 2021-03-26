@@ -8,6 +8,13 @@
   display: block;
 }
 
+.subimg {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
 .content h3,
 .content p {margin: 0;}
 
