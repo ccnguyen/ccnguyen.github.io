@@ -28,7 +28,8 @@ p, ul { font-size: 1.2em;
       font-family: 'Helvetica', 'Arial', 'Sans-Serif';
       line-height: 1.4em;
       color: #333; }
-p .text { font-size: 0.8em; line-height: 1.4em; color: #333; vertical-align: text-bottom;}
+p .text { font-size: 0.8em; line-height: 1.4em; color: #333; display: flex; align: center;}
+
 
 :root {
 	--min-height: 80px;
