@@ -8,6 +8,10 @@
   display: block;
 }
 
+div {
+	margin: 10px;
+}
+
 .subimg {
     float: left;
     width:  100px;
