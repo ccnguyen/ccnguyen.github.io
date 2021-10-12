@@ -4,7 +4,7 @@ title: Home
 ---
 ![](assets/img/headshot.png)
 
-I am a third-year Ph.D. candidate in Electrical Engineering in the Stanford Computational Imaging Lab, 
+I am a third-year Ph.D. candidate in Electrical Engineering in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
 advised by Prof. Gordon Wetzstein. I am supported by the NSF Graduate Research Fellowship.
 
 I received my B.S. in Bioengineering also at Stanford. As an undergraduate,
