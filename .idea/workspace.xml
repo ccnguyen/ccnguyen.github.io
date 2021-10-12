@@ -2,58 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28b2f00e-7285-46ad-b38a-4f4959013842" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_sass/3-sections/_description.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/docs/CN_RESUME2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head-custom-google-analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head-custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-minimal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/rouge-github.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/another-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/docs.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/github.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/me.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scholar.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scale.fix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CN_RESUME21.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/crispr.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/depth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/livefish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/self.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/3-sections/_-sections-dir.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/3-sections/_-sections-dir.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/3-sections/_default.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/3-sections/_default.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/3-sections/_footer.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/3-sections/_footer.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/3-sections/_header.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/3-sections/_header.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/3-sections/_page.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/3-sections/_page.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/all.sass" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/all.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jekyll-theme-minimal.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/bootstrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/cibuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/release" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/validate-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/docs" />
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
@@ -94,11 +58,17 @@
       <option name="presentableId" value="Default" />
       <updated>1633995055834</updated>
       <workItem from="1633995062050" duration="4234000" />
-      <workItem from="1634010578944" duration="2092000" />
+      <workItem from="1634010578944" duration="6205000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="89" width="834" height="924" key="find.popup" timestamp="1634017019982">
+      <screen x="0" y="23" width="1892" height="1057" />
+    </state>
+    <state x="256" y="89" width="834" height="924" key="find.popup/-1280.303.1280.777/0.23.1892.1057@0.23.1892.1057" timestamp="1634017019982" />
   </component>
 </project>

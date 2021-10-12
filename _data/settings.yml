@@ -2,20 +2,14 @@
 # General Site Settings
 
 menu:
-- {name: 'About', url: ''}
+- {name: 'Resume', url: 'assets/docs/CN_RESUME2021.pdf'}
 - {name: 'Publications',     url: 'pubs'}
-#- {name: 'About',    url: 'about'}
-#- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
 - {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
