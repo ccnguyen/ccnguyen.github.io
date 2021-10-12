@@ -5,7 +5,9 @@ title: Home
 ![](assets/img/headshot.png)
 
 I am a third-year Ph.D. candidate in Electrical Engineering in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
-advised by Prof. Gordon Wetzstein. I am supported by the NSF Graduate Research Fellowship.
+advised by Prof. Gordon Wetzstein. I am supported by the NSF Graduate Research Fellowship. 
+I am interested in challenges in **computational photography**, particularly in **denoising**, **deblurring**,
+**3A algorithms**, and **HDR imaging**, to make image capture more resemble more closely what we can experience in real life.
 
 I received my B.S. in Bioengineering also at Stanford. As an undergraduate,
 I worked on a multitude of molecular bioengineering projects,
