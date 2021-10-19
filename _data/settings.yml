@@ -3,6 +3,7 @@
 
 menu:
 - {name: 'Resume', url: 'assets/docs/CN_RESUME2021.pdf'}
+- {name: 'CV', url: 'assets/docs/cn_cv21.pdf'}
 - {name: 'Publications',     url: 'pubs'}
 
 #-------------------------------
