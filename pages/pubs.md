@@ -8,7 +8,7 @@ permalink: /pubs
 **Nguyen, C.M.**, Martel, J.N.P., Wetzstein, G. (2022).
 Learning Spatially Varying Pixel Exposures for Motion Deblurring.
 arXiv.
-[[project page](https://ccnguyen.github.io/lsvpe/)]][[paper](https://arxiv.org/abs/2204.07267)]
+[[project page](https://ccnguyen.github.io/lsvpe/)][[paper](https://arxiv.org/abs/2204.07267)]
 
 Ikoma, H., **Nguyen, C.M.**, Peng, Y., Metzler, C., Wetzstein, G. (2021). 
 Depth from Defocus with Learned Optics for Imaging and Occlusion-Aware Depth Estimation. 
