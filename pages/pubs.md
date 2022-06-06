@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs
 ---
 
-## Publications
+## Publications  
 **Learning Spatially Varying Pixel Exposures for Motion Deblurring**<br>
 **Cindy M. Nguyen**, Julien N.P. Martel, Gordon Wetzstein<br>
 *arXiv*, 2022<br>
