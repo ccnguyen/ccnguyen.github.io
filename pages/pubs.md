@@ -7,12 +7,12 @@ permalink: /pubs
 ## Publications  
 **Learning Spatially Varying Pixel Exposures for Motion Deblurring**<br>
 **Cindy M. Nguyen**, Julien N.P. Martel, Gordon Wetzstein<br>
-*arXiv*, 2022<br>
+*ICCP*, 2022<br>
 [[project page](https://ccnguyen.github.io/lsvpe/)][[paper](https://arxiv.org/abs/2204.07267)]
 
 **Depth from Defocus with Learned Optics for Imaging and Occlusion-Aware Depth Estimation**<br>
 Hayato Ikoma, **Cindy M. Nguyen**, Christopher A. Metzler, Yifan Peng, Gordon Wetzstein<br>
-*IEEE International Conference on Computational Photography*, 2021<br>
+*ICCP*, 2021<br>
 [[paper](https://ieeexplore.ieee.org/document/9466261)]
 
 **CRISPR-mediated Live Imaging of Genome Editing and Transcription**<br>
