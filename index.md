@@ -5,8 +5,8 @@ title: Home
 ![](assets/img/headshot.png)
 
 I am a fourth-year Ph.D. candidate in Electrical Engineering in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
-advised by Prof. Gordon Wetzstein. I am supported by the NSF Graduate Research Fellowship.
- 
+advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). I am supported by the NSF Graduate Research Fellowship. I have also had the pleasure of working with [Kevin Matzen](http://kmatzen.com/), [Simon Niklaus](https://sniklaus.com/welcome), and [Oliver Wang](http://www.oliverwang.info/) at [Adobe Research](https://research.adobe.com/). 
+
 I am interested in challenges in **computational photography**, particularly in **denoising**, **deblurring**, **depth estimation**, and **HDR imaging** to make image capture resemble more closely what we can experience in real life. 
 
 I received my B.S. in Bioengineering also at Stanford. As an undergraduate,
