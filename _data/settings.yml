@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Resume', url: 'assets/docs/CN_RESUME2021.pdf'}
-- {name: 'CV', url: 'assets/docs/cn_cv21.pdf'}
+- {name: 'Resume', url: 'assets/docs/CN_RESUME.pdf'}
+- {name: 'CV', url: 'assets/docs/cn_cv.pdf'}
 - {name: 'Publications',     url: 'pubs'}
 
 #-------------------------------
