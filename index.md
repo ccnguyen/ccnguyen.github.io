@@ -14,4 +14,4 @@ I worked on engineering CRISPR genome editing systems under the guidance of [Pro
 
 At Stanford, I am the senior advisor for [SHTEM](https://compression.stanford.edu/outreach/stem2shtem-summer-internships-high-schoolers-and-community-college-students), a high school and community college research internship program that I founded with [Prof. Tsachy Weissman](https://web.stanford.edu/~tsachy/). If you are eligible to apply, please do so! As a first-generation/low-income student, I'm passionate about helping students from similar backgrounds, so feel free to reach out if you're a minority student interested in pursuing STEM and/or grad school.
 
-*Last updated: 09/09/2023*
+*Last updated: 10/24/2023*

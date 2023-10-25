@@ -5,6 +5,12 @@ permalink: /pubs
 ---
 
 ## Publications  
+
+**Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition**<br>
+**Cindy M. Nguyen**, Eric R. Chan, Alexander W. Bergman, Gordon Wetzstein<br>
+*WACV*, 2024 <br>
+[[project page](https://ccnguyen.github.io/diffusion-in-the-dark/)][[paper](https://arxiv.org/abs/2303.04291)]
+
 **Learning Spatially Varying Pixel Exposures for Motion Deblurring**<br>
 **Cindy M. Nguyen**, Julien N.P. Martel, Gordon Wetzstein<br>
 *ICCP*, 2022<br>
