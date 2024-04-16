@@ -7,7 +7,7 @@ title: Home
 I am a final-year Ph.D. candidate in Electrical Engineering in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
 advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). I am supported by the NSF Graduate Research Fellowship. 
 
-This past summer, I was fortunate enough to work with [Boris Chen](https://www.linkedin.com/in/boris-chen-b921a214) and [Yiwei Chen](https://www.linkedin.com/in/evan-yiwei-zhao-18584a105/) on applying generative AI to studio production workflows at [Netflix](https://research.netflix.com/). During Summer 2022, I had the pleasure of working with [Kevin Blackburn-Matzen](http://kmatzen.com/), [Simon Niklaus](https://sniklaus.com/welcome), and [Oliver Wang](http://www.oliverwang.info/) at [Adobe Research](https://research.adobe.com/).
+This past summer, I was fortunate enough to work with [Boris Chen](https://www.linkedin.com/in/boris-chen-b921a214) and [Yiwei Zhao](https://www.linkedin.com/in/evan-yiwei-zhao-18584a105/) on applying generative AI to studio production workflows at [Netflix](https://research.netflix.com/). During Summer 2022, I had the pleasure of working with [Kevin Blackburn-Matzen](http://kmatzen.com/), [Simon Niklaus](https://sniklaus.com/welcome), and [Oliver Wang](http://www.oliverwang.info/) at [Adobe Research](https://research.adobe.com/).
 
 I am interested in challenges in **computational photography**, particularly in **deblurring**, **depth estimation**, and **low-light reconstruction** to make image capture resemble more closely what we can experience in real life. I am also interested in seeing how far we can achieve this goal using **generative AI**.
 
