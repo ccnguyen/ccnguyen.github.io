@@ -9,7 +9,7 @@ advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). I am suppo
 
 This past summer, I was fortunate enough to work with [Boris Chen](https://www.linkedin.com/in/boris-chen-b921a214) and [Yiwei Zhao](https://www.linkedin.com/in/evan-yiwei-zhao-18584a105/) on applying generative AI to studio production workflows at [Netflix](https://research.netflix.com/). During Summer 2022, I had the pleasure of working with [Kevin Blackburn-Matzen](http://kmatzen.com/), [Simon Niklaus](https://sniklaus.com/welcome), and [Oliver Wang](http://www.oliverwang.info/) at [Adobe Research](https://research.adobe.com/).
 
-I am interested in challenges in **computational photography**, particularly in **deblurring**, **depth estimation**, and **low-light reconstruction** to make image capture resemble more closely what we can experience in real life. I am also interested in seeing how far we can achieve this goal using **generative AI**.
+I am interested in challenges in **computational imaging and photography**, particularly in **deblurring**, **depth estimation**, and **low-light reconstruction** to make image capture resemble more closely what we can experience in real life. I am also interested in seeing how far we can achieve this goal using **generative AI**.
 
 I received my B.S. in Bioengineering also at Stanford. As an undergraduate,
 I worked on engineering CRISPR genome editing systems under the guidance of [Prof. Stanley Qi](https://med.stanford.edu/qilab/home.html) (which included a *lot* of pipetting). 
