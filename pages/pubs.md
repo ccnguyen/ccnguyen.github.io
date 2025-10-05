@@ -35,4 +35,4 @@ Press: [Stanford Medicine](https://med.stanford.edu/news/all-news/2018/10/resear
  [Quanta](https://www.quantamagazine.org/in-the-nucleus-genes-activity-might-depend-on-their-location-20181106/), 
  [Science](https://www.sciencemag.org/news/2018/10/moving-dna-different-part-nucleus-can-change-how-it-works)
  
- See my [Google Scholar](https://scholar.google.com/citations?user=jc-Xg3IAAAAJ&hl=en) for most recent publications.
+ See my [Google Scholar](https://scholar.google.com/citations?user=ckr1ZcIAAAAJ&hl=en).
