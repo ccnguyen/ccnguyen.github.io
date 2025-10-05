@@ -1,5 +1,17 @@
 <section class="home">
-{{ content }}
+  <div class="home-content">
+    <div class="home-image-container">
+      {% assign content_parts = content | split: '</p>' %}
+      {{ content_parts[0] }}</p>
+    </div>
+    <div class="home-text-container">
+      {% for part in content_parts offset:1 %}
+        {% if part contains '<p>' %}
+          {{ part }}</p>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 <!--  <div class="project-container">-->
 <!--    {% for project in site.data.settings.projects %}-->
 <!--      <a href="{{ site.github.url }}/projects/{{ project.url }}">-->
