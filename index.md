@@ -14,6 +14,6 @@ Before that, I received my B.S. in Bioengineering also at Stanford, where I work
 
 While I was at Stanford, I co-founded [STEM to SHTEM](https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers-and-community-college-students) with [Prof. Tsachy Weissman](https://web.stanford.edu/~tsachy/) for high school and community college students to pursue summer research. Starting research [when I was 16](https://simr.stanford.edu/) was life-changing, so I'm grateful to help give that experience to others.
 
-Having grown up first-generation and low-income, I'm passionate about supporting underreprented minorities, so please reach out if you're a minority in research/tech and want to chat! 
+Having grown up first-generation and low-income, I'm passionate about supporting underrepresented minorities, so please reach out if you're a minority in research/tech and want to chat! 
 
 *Last updated: 10/06/2025*
