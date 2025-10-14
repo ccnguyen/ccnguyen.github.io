@@ -18,7 +18,7 @@ projects:
 social:
 - {icon: 'github',    link: 'https://github.com/ccnguyen'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/ccnguyenn'}
-- {icon: 'envelope',  link: 'mailto:mailto:cindyn@netflix.com'}
+- {icon: 'envelope',  link: 'mailto:cindyn@netflix.com', text: 'cindyn@netflix.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

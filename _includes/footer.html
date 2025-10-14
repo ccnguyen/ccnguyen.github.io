@@ -6,7 +6,12 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+          <a href="{{ item.link }}" target="_blank">
+            <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+            {% if item.text %}
+              <span class="social-text">{{ item.text }}</span>
+            {% endif %}
+          </a>
         {% endfor %}
       </nav>
     </div>
