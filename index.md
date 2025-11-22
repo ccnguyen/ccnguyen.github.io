@@ -4,7 +4,7 @@ title: Home
 ---
 ![](assets/img/dp.png)
 
-<b>Bay Area native, computer vision researcher, and I'll come up with a third thing -- I promise.</b>
+<b>Bay Area native, computer vision researcher, and I'll come up with a third thing, probably.</b>
 
 I am a **research scientist at [Netflix](https://research.netflix.com/)**, working on GenAI and computer vision applications in studio production. I earned my Ph.D. in Electrical Engineering while working in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
 advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). There, I developed domain-specific camera algorithms for problems such as motion deblurring and low-light imaging.
