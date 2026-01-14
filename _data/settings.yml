@@ -4,7 +4,7 @@
 menu:
 # - {name: 'Resume', url: 'assets/docs/CN_RESUME.pdf'}
 # - {name: 'CV', url: 'assets/docs/cn_cv.pdf'}
-- {name: 'Publications',     url: 'pubs'}
+# - {name: 'Publications',     url: 'pubs'}
 
 #-------------------------------
 # Projects Section

@@ -109,6 +109,7 @@ DEPENDENCIES
   base64 (~> 0.2)
   bigdecimal (~> 3.1)
   csv (~> 3.3)
+  listen (~> 3.8)
   logger (~> 1.6)
   portfolio-jekyll-theme!
   webrick (~> 1.9)

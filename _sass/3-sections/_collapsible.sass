@@ -1,0 +1,56 @@
+.hats-list
+  margin: 30px 0
+
+.hats-list h2
+  font-size: 16px
+  font-weight: 700
+  color: #6b6b6b
+  margin-bottom: 15px
+
+.collapsible-item
+  margin-bottom: 5px
+
+.collapsible-header
+  cursor: pointer
+  font-size: 16px
+  font-weight: 400
+  color: $accent
+  padding: 5px 0
+  display: flex
+  align-items: center
+  user-select: none
+  &:hover
+    color: $hoverColor
+
+.collapsible-content
+  max-height: 0
+  overflow: hidden
+  transition: max-height 0.3s ease
+  padding-left: 25px
+
+.collapsible-content.active
+  max-height: 2000px
+  padding-top: 10px
+  padding-bottom: 10px
+
+.collapsible-content h2
+  font-size: 20px
+  margin-top: 20px
+  margin-bottom: 15px
+  color: $headlineColor
+
+.collapsible-content p
+  margin-bottom: 20px
+  line-height: 1.6
+
+.travel-gallery
+  display: flex
+  gap: 15px
+  flex-wrap: wrap
+  justify-content: flex-start
+
+.travel-gallery img
+  width: 250px
+  height: auto
+  border-radius: 4px
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1)
