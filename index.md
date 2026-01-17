@@ -17,7 +17,7 @@ Having grown up first-generation and low-income, I'm passionate about supporting
   <h2>Hats I've Worn</h2>
   
   <div class="collapsible-item">
-    <div class="collapsible-header">Computer vision researcher</div>
+    <div class="collapsible-header">Researcher</div>
     <div class="collapsible-content">
       <p><strong>Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition</strong><br>
       <strong>Cindy M. Nguyen</strong>, Eric R. Chan, Alexander W. Bergman, Gordon Wetzstein<br>
