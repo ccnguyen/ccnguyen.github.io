@@ -6,7 +6,7 @@ title: Home
 
 
 
-I am a **research scientist at [Netflix](https://research.netflix.com/)**, working on GenAI and computer vision applications in studio production. I earned my Ph.D. in Electrical Engineering while working in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
+I am a **research scientist at [Netflix](https://research.netflix.com/)**, working on GenAI and computer vision applications. I earned my Ph.D. in Electrical Engineering while working in the [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), 
 advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). There, I developed domain-specific camera algorithms for problems such as motion deblurring and low-light imaging.
 
 Before that, I received my B.S. in Bioengineering also at Stanford, where I worked on CRISPR genome editing while advised by [Prof. Stanley Qi](https://med.stanford.edu/qilab/home.html) (which included a *lot* of pipetting).
@@ -17,7 +17,7 @@ Having grown up first-generation and low-income, I'm passionate about supporting
   <h2>Hats I've Worn</h2>
   
   <div class="collapsible-item">
-    <div class="collapsible-header">Researcher</div>
+    <div class="collapsible-header">Researcher (as a bioengineer and a computer vision person)</div>
     <div class="collapsible-content">
       <p><strong>Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition</strong><br>
       <strong>Cindy M. Nguyen</strong>, Eric R. Chan, Alexander W. Bergman, Gordon Wetzstein<br>
@@ -62,7 +62,7 @@ Having grown up first-generation and low-income, I'm passionate about supporting
   <div class="collapsible-item">
     <div class="collapsible-header">Traveler</div>
     <div class="collapsible-content">
-      <p>I've been so grateful to have the opportunity to travel for work and pleasure. Some of my favorite memories have been made through solo traveling through Germany, exploring national parks, and eating many, many desserts in Japan.</p>
+      <p>I have been fortunate enough to have had the opportunity to travel, sometimes through work and most times for fun. Some of my favorite memories have been made through solo traveling through Germany, exploring national parks, and eating many, many desserts in Japan.</p>
       <p><img src="/pics/5643FFA1-64F4-4159-A13C-1CCC6F286526.JPG" alt="Travel photo 1" style="width:32%; aspect-ratio:3/4; object-fit:cover; object-position:center; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-right:1%;"><img src="/pics/DSC00240.png" alt="Travel photo 2" style="width:32%; aspect-ratio:3/4; object-fit:cover; object-position:center; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-right:1%;"><img src="/pics/IMG_1132.JPG" alt="Travel photo 3" style="width:32%; aspect-ratio:3/4; object-fit:cover; object-position:center; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);"></p>
     </div>
   </div>

@@ -6,5 +6,50 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+      <svg class="theme-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle class="sun-icon" cx="10" cy="10" r="5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <circle class="moon-icon" cx="10" cy="10" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <circle class="moon-icon" cx="12.5" cy="8" r="5" fill="currentColor"/>
+      </svg>
+    </button>
   </nav>
 </header>
+
+<script>
+  // Dark mode toggle functionality
+  const themeToggle = document.getElementById('theme-toggle');
+  const themeIcon = document.querySelector('.theme-icon');
+  const body = document.body;
+  
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  const sunIcons = themeIcon.querySelectorAll('.sun-icon');
+  const moonIcon = themeIcon.querySelector('.moon-icon');
+  
+  function updateIcon(isDark) {
+    if (isDark) {
+      sunIcons.forEach(el => el.style.display = 'block');
+      moonIcon.style.display = 'none';
+    } else {
+      sunIcons.forEach(el => el.style.display = 'none');
+      moonIcon.style.display = 'block';
+    }
+  }
+  
+  if (currentTheme === 'dark') {
+    body.classList.add('dark-mode');
+    updateIcon(true);
+  } else {
+    updateIcon(false);
+  }
+  
+  themeToggle.addEventListener('click', function() {
+    body.classList.toggle('dark-mode');
+    const isDark = body.classList.contains('dark-mode');
+    
+    // Update icon and save preference
+    updateIcon(isDark);
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  });
+</script>

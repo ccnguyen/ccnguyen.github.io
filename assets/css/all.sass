@@ -3,7 +3,7 @@
 
 //------------------------------------------------
 // Set some colors as sass variables
-// Custom color scheme
+// Custom color scheme - Light Mode
 
 $accent-color: #31638f
 $accent: #31638f
@@ -16,7 +16,59 @@ $bgcolor: #dbdbdb
 $documentBackgroundColor: #dbdbdb
 $hoverColor: #1da16c
 
+// Dark Mode Colors
+$dark-bg: #262626
+$dark-text: #ffffff
+$dark-headline: #4dd0a7
+$dark-accent: #6ba3d4
+$dark-hover: #4dd0a7
+
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
 @import '3-sections/collapsible'
+
+// Smooth transitions for dark mode
+body
+  transition: background-color 0.3s ease, color 0.3s ease
+
+header, footer, .home, .collapsible-content
+  transition: background-color 0.3s ease
+
+a, .logo a, .footer-tagline, nav a, .social-media nav a, .collapsible-header, .home-text-container .tagline, .hats-list h2
+  transition: color 0.3s ease
+
+// Dark Mode Styles
+body.dark-mode
+  background-color: $dark-bg
+  color: $dark-text
+  
+  header, footer
+    background: #2d2d2d
+  
+  .logo a, .footer-tagline
+    color: $dark-headline
+  
+  nav a, .social-media nav a, a, .collapsible-header
+    color: $dark-accent
+  
+  a:hover, a:focus, .collapsible-header:hover
+    color: $dark-hover
+  
+  .home
+    background: #2d2d2d
+  
+  .home-text-container .tagline, .home-text-container p
+    color: $dark-text
+  
+  .hats-list h2
+    color: #ffffff
+  
+  .collapsible-content
+    background: #303030
+    border-left-color: $dark-accent
+  
+  .theme-toggle
+    color: $dark-text
+    &:hover
+      color: $dark-accent
