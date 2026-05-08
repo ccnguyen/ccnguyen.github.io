@@ -5,23 +5,24 @@
 // Set some colors as sass variables
 // Custom color scheme - Light Mode
 
-$accent-color: #31638f
-$accent: #31638f
-$accent-light: #4b8ac9
-$selectionColor: #4b8ac9
+// Warm palette (golden / terracotta) to match portrait lighting in assets/img/dp.png
+$accent-color: #af6348
+$accent: #af6348
+$accent-light: #c4856a
+$selectionColor: #ddb892
 
 $textColor: #292929
-$headlineColor: #0e7d5d
+$headlineColor: #7d4e38
 $bgcolor: #dbdbdb
 $documentBackgroundColor: #dbdbdb
-$hoverColor: #1da16c
+$hoverColor: #c55a3c
 
 // Dark Mode Colors
 $dark-bg: #262626
 $dark-text: #ffffff
-$dark-headline: #4dd0a7
-$dark-accent: #6ba3d4
-$dark-hover: #4dd0a7
+$dark-headline: #e8b882
+$dark-accent: #d4a07a
+$dark-hover: #f0c49a
 
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
@@ -30,7 +31,7 @@ $dark-hover: #4dd0a7
 
 // Smooth transitions for dark mode
 body
-  transition: background-color 0.3s ease, color 0.3s ease
+  transition: background 0.3s ease, color 0.3s ease
 
 header, footer, .home, .collapsible-content
   transition: background-color 0.3s ease
@@ -38,13 +39,30 @@ header, footer, .home, .collapsible-content
 a, .logo a, .footer-tagline, nav a, .social-media nav a, .collapsible-header, .home-text-container .tagline, .hats-list h2
   transition: color 0.3s ease
 
+// Light mode gradient — last so it wins over any `background` shorthand in partials; stronger stops read on #dbdbdb
+body:not(.dark-mode)
+  background-color: $documentBackgroundColor
+  background-image: linear-gradient(to top, rgba(221, 184, 146, 0.52) 0%, rgba(175, 99, 72, 0.3) 17%, rgba(221, 184, 146, 0.18) 36%, rgba(219, 219, 219, 0) 66%)
+  background-repeat: no-repeat
+  background-size: 100% 100vh
+  background-position: center bottom
+  background-attachment: fixed
+
 // Dark Mode Styles
 body.dark-mode
   background-color: $dark-bg
+  background-image: linear-gradient(to top, rgba(232, 184, 130, 0.26) 0%, rgba(212, 160, 122, 0.12) 22%, rgba(38, 38, 38, 0) 58%)
+  background-repeat: no-repeat
+  background-size: 100% 100vh
+  background-position: center bottom
+  background-attachment: fixed
   color: $dark-text
   
-  header, footer
+  header
     background: #2d2d2d
+
+  footer
+    background: transparent
   
   .logo a, .footer-tagline
     color: $dark-headline
@@ -56,7 +74,7 @@ body.dark-mode
     color: $dark-hover
   
   .home
-    background: #2d2d2d
+    background: transparent
   
   .home-text-container .tagline, .home-text-container p
     color: $dark-text
