@@ -54,7 +54,7 @@ Having grown up first-generation and low-income, I'm passionate about supporting
     <div class="collapsible-content">
       <p>While I was at Stanford, I co-founded <a href="https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers-and-community-college-students">STEM to SHTEM</a> with <a href="https://web.stanford.edu/~tsachy/">Prof. Tsachy Weissman</a> for high school and community college students to pursue summer research. Starting research <a href="https://simr.stanford.edu/">when I was 16</a> was life-changing, so I'm grateful to help give that experience to others.</p>
       <p>
-      Before grad school, I had the honor of working with <a href="https://fast.stanford.edu/">Stanford FAST</a> and had a couple of outreach projects supported by Google igniteCS and Stanford Educational Partnerships. I like to think that I helped a kid or two.
+      Before grad school, I had the honor of working with <a href="https://fast.stanford.edu/">Stanford FAST</a> and had a couple of outreach projects supported by Google igniteCS and Stanford Educational Partnerships. It was extremely rewarding to spend my weekends with these students, and I'm really proud of the students who came out of these programs!
       </p>
     </div>
   </div>
