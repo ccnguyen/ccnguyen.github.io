@@ -6,6 +6,11 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
+    {% for item in site.data.settings.social %}
+      <a class="nav-icon-link" href="{{ item.link }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+        <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+      </a>
+    {% endfor %}
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
       <svg class="theme-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle class="sun-icon" cx="10" cy="10" r="5" stroke="currentColor" stroke-width="1.5" fill="none"/>

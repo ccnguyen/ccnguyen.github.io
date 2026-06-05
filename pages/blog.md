@@ -8,3 +8,4 @@ permalink: /blog
 
 - I spent three months in Lübeck, Germany, working on dissecting pig brains and solo traveling around Europe. 
 - My face was once on the front page of Reddit. 
+- I once guest DJ'd at San Jose Sharks game.

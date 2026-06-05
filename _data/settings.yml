@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-# - {name: 'Resume', url: 'assets/docs/CN_RESUME.pdf'}
+- {name: 'Resume', url: 'assets/docs/CN_RESUME.pdf'}
 # - {name: 'CV', url: 'assets/docs/cn_cv.pdf'}
 # - {name: 'Publications',     url: 'pubs'}
 
@@ -16,9 +16,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'github',    link: 'https://github.com/ccnguyen'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/ccnguyenn'}
-- {icon: 'envelope',  link: 'mailto:cindyn@netflix.com', text: 'cindyn@netflix.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
