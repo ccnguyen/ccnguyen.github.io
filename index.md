@@ -11,8 +11,6 @@ advised by [Prof. Gordon Wetzstein](https://stanford.edu/~gordonwz/). There, I d
 
 Before that, I received my B.S. in Bioengineering also at Stanford, where I worked on CRISPR genome editing while advised by [Prof. Stanley Qi](https://med.stanford.edu/qilab/home.html) (which included a *lot* of pipetting).
 
-Having grown up first-generation and low-income, I'm passionate about supporting underrepresented minorities, so please reach out if you're a minority in research/tech and want to chat! 
-
 <div class="hats-list">
   <h2>Hats I've Worn</h2>
   
